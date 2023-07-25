@@ -1,6 +1,6 @@
 {
     "name": "loong/fpdf",
-    "description": "复制fpdf.org发行的composer包",
+    "description": "复制fpdf.org发行的composer包，支持中文，支持PHP8",
     "type": "library",
     "license": "MIT",
     "autoload": {
