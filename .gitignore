@@ -1,0 +1,12 @@
+.git
+/.git
+.git/
+.vscode
+.env
+test
+index.php
+composer.lock
+vendor
+config
+*.txt
+*.htm
